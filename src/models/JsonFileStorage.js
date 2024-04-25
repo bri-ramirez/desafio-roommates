@@ -5,7 +5,7 @@ export class JsonFileStorage {
   filePath;
 
   constructor(entityName) {
-    this.filePath = `./api/data/${entityName}.json`;
+    this.filePath = `./src/data/${entityName}.json`;
     this.verifyFile();
   }
 
