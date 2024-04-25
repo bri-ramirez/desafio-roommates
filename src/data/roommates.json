@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ebe03e99-ddc1-449c-ac4a-67a53ea8d1d5",
+    "name": "Rachit",
+    "lastName": "Jain",
+    "email": "rachit.jain@example.com"
+  },
+  {
+    "id": "c8c30839-2759-43c0-8360-8e1489bb86ef",
+    "name": "Eliot",
+    "lastName": "Dupuis",
+    "email": "eliot.dupuis@example.com"
+  },
+  {
+    "id": "4aec592c-b004-4343-ac2e-47e7ce0b4f5e",
+    "name": "Käte",
+    "lastName": "Seidel",
+    "email": "kate.seidel@example.com"
+  },
+  {
+    "id": "2a075568-1dbf-4a24-a37e-1a610f3f1821",
+    "name": "Antoinette",
+    "lastName": "Brunet",
+    "email": "antoinette.brunet@example.com"
+  }
+]

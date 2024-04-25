@@ -1,0 +1,26 @@
+[
+  {
+    "id": "722efaf5-bd17-4c3c-9afd-53359b84d090",
+    "roommate": "c8c30839-2759-43c0-8360-8e1489bb86ef",
+    "descripcion": "Articulos de limpieza",
+    "monto": 40000
+  },
+  {
+    "id": "52dc6284-4f70-4552-95d4-60aef8302383",
+    "roommate": "ebe03e99-ddc1-449c-ac4a-67a53ea8d1d5",
+    "descripcion": "Articulos de limpieza",
+    "monto": 20000
+  },
+  {
+    "id": "2160e87c-2631-4366-86e5-e15ddd1fbc4d",
+    "roommate": "c8c30839-2759-43c0-8360-8e1489bb86ef",
+    "descripcion": "Articulos de limpieza",
+    "monto": 10000
+  },
+  {
+    "id": "70f160bd-fe22-4599-9964-6fa331e9e12a",
+    "roommate": "2a075568-1dbf-4a24-a37e-1a610f3f1821",
+    "descripcion": "Articulos de limpieza",
+    "monto": 10000
+  }
+]
